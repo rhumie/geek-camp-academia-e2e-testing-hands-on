@@ -1,0 +1,14 @@
+{
+  "name": "geek-camp-academia-e2e-testing-hands-on",
+  "version": "1.0.0",
+  "description": "This repository contains the documents for the [Geek Camp Academia](https://talent.supporterz.jp/events/5514283c-d726-4a5a-b759-3593d1d74b23/).",
+  "main": "index.js",
+  "devDependencies": {
+    "@playwright/test": "^1.46.1",
+    "@types/node": "^22.4.0"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
